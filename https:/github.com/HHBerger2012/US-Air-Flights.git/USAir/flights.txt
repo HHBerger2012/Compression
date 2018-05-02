@@ -1,0 +1,7 @@
+Chicago, Albuquerque, 508
+Albuquerque, Venice, 250
+Venice, Albuquerque, 400
+Albuquerque, Chicago, 250
+Chicago, Los Angeles, 230
+Los Angeles, San Diego, 80
+Chicago, San Diego, 325
